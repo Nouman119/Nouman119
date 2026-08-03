@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/35X4CSQ2" alt="Noor's Portfolio Banner" width="100%">
+  <img src="[https://ibb.co.com/35X4CSQ2](https://i.ibb.co.com/1YV7mRj1/linkedin-cover.png)" alt="Noor's Portfolio Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Noor E Alam</h1>
 <h3 align="center">Aspiring Full Stack Developer | Currently mastering MERN Stack & Next.js at Programming Hero.</h3>
